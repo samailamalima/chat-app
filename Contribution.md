@@ -29,3 +29,4 @@ Here are some additional resources for reference:
 The Chat App is licensed under the [license]. Please refer to the LICENSE file for more information.
 
 That concludes the documentation for the project folder. If you have any further questions or need assistance, feel free to ask!
+
