@@ -2,6 +2,9 @@
 ## Overview
 This project folder contains all the necessary files and folders for the implementation of the Chat App.
 
+![2222](https://github.com/samailamalima/chat-app/assets/41795852/8b09f0fe-e89a-4d2a-b0ad-170586e6ba2c)
+![Uploading 111.PNG…]()
+
 ## Structure
 The project folder consists of the following files and folders:
 
