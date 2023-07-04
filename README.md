@@ -1,6 +1,6 @@
 # Project Folder Documentation
 ## Overview
-This project folder contains all the necessary files and folders for the implementation of the Chat App.
+This project folder contains all the necessary files and folders for implementing the Chat App.
 
 ![2222](https://github.com/samailamalima/chat-app/assets/41795852/8b09f0fe-e89a-4d2a-b0ad-170586e6ba2c)
 ![111](https://github.com/samailamalima/chat-app/assets/41795852/15c9b499-8adc-44e4-8611-1074041a9b1f)
@@ -24,10 +24,9 @@ The project folder consists of the following files and folders:
 To run the Chat App, follow these steps:
 
 1. Ensure that latest Node.js and npm are installed on your computer.
-2. Open a terminal and navigate to the project folder.
-3. Run the command `npm install` to install all the required dependencies.
-4. Once the installation is complete, run the command `npm start` to start the development server.
-5. Open a web browser and visit `http://localhost:3000` to view the application.
+2. Open a terminal and navigate to the project folder `npx create-react-app ./` this will create a react template for you to work.
+3. Once the installation is complete, run the command `npm start` to start the development server.
+4. Open a web browser and visit `http://localhost:3000` to view the application. 
 
 ## Dependencies
 The Chat App relies on the following dependencies:
